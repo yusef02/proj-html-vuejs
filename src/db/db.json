@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "imgPrevSrc": "",
+      "articleTitle": "titolo titolo titolo",
+      "date": "2023-12-24",
+      "articleType": ["tutorial", "news"],
+      "commentsSettings": {
+        "isCommented": true,
+        "comments": ["Lorem ipsum dolor sit.", "comment 2", "comment 3"]
+      },
+      "articlePreview": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem ad excepturi consequatur aliquam eum esse aliquid quibusdam expedita labore molestiae!",
+      "articleContent": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti."
+      ],
+      "articleImages": ["", ""]
+    },
+    {
+      "imgPrevSrc": "",
+      "articleTitle": "titolo titolo titolo",
+      "date": "2024-02-10",
+      "articleType": ["tutorial", "news"],
+      "commentsSettings": {
+        "isCommented": true,
+        "comments": ["Lorem ipsum dolor sit.", "comment 2", "comment 3"]
+      },
+      "articlePreview": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem ad excepturi consequatur aliquam eum esse aliquid quibusdam expedita labore molestiae!",
+      "articleContent": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti."
+      ],
+      "articleImages": ["", ""]
+    },
+    {
+      "imgPrevSrc": "",
+      "articleTitle": "titolo titolo titolo",
+      "date": "2024-02-15",
+      "articleType": ["tutorial", "news"],
+      "commentsSettings": {
+        "isCommented": true,
+        "comments": ["Lorem ipsum dolor sit.", "comment 2", "comment 3"]
+      },
+      "articlePreview": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem ad excepturi consequatur aliquam eum esse aliquid quibusdam expedita labore molestiae!",
+      "articleContent": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti."
+      ],
+      "articleImages": ["", ""]
+    },
+    {
+      "imgPrevSrc": "",
+      "articleTitle": "titolo titolo titolo",
+      "date": "2024-01-13",
+      "articleType": ["tutorial", "news"],
+      "commentsSettings": {
+        "isCommented": true,
+        "comments": ["Lorem ipsum dolor sit.", "comment 2", "comment 3"]
+      },
+      "articlePreview": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem ad excepturi consequatur aliquam eum esse aliquid quibusdam expedita labore molestiae!",
+      "articleContent": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti sint incidunt dolor laudantium neque est, officiis animi corporis magnam possimus quisquam praesentium facere nemo quaerat amet vitae? Sit, alias quidem?",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, quam odit dolorem aliquam eaque numquam cupiditate explicabo ex debitis laboriosam consectetur labore doloribus id veniam reiciendis mollitia nemo molestiae accusantium.Quod, possimus numquam provident dolores ad commodi doloribus adipisci aliquam facilis. Neque temporibus delectus cumque perferendis natus quis soluta eum culpa sed a dicta possimus quidem, quibusdam ex aspernatur corrupti."
+      ],
+      "articleImages": ["", ""]
+    }
+  ]
+}

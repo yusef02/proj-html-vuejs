@@ -40,7 +40,7 @@ export default {
   <header>
     <div class="container">
       <app-logo />
-      <app-nav :navLinks />
+      <app-nav :navLinks="navLinks" />
       <div class="btn">JOIN US</div>
     </div>
   </header>
