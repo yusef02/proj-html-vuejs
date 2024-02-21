@@ -4,6 +4,7 @@ export default {
     return {};
   },
   props: ["article"],
+  methods: {},
 };
 </script>
 <template>

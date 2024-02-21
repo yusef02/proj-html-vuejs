@@ -5,14 +5,10 @@ export default {
   data() {
     return { store };
   },
-  methods: {
-    getLogo() {
-      return new URL(`/${store.logo}`, import.meta.url).href;
-    },
-  },
+  methods: {},
 };
 </script>
 <template>
-  <div><img :src="getLogo()" alt="logo" /></div>
+  <div><img :src="store.logo" alt="logo" /></div>
 </template>
 <style lang="scss"></style>

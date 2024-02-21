@@ -59,7 +59,7 @@ export default {
         />
       </div>
     </div>
-    <section></section>
+    <section>go to our forum</section>
   </section>
 </template>
 <style lang="scss"></style>
