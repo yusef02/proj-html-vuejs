@@ -9,7 +9,7 @@ export default {
 <template>
   <ul class="navList">
     <li v-for="tag in navLinks">
-      <a :href="tag.tag">{{ tag.tagText }}</a>
+      <div class="socialIcon"><i :class="tag.icon"></i></div>
     </li>
   </ul>
 </template>

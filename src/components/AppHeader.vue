@@ -7,27 +7,31 @@ export default {
     return {
       navLinks: [
         {
-          tag: "#",
+          tag: "#hero",
           tagText: "Home",
         },
         {
-          tag: "#",
+          tag: "#news",
+          tagText: "News",
+        },
+        {
+          tag: "#apple",
           tagText: "Apple",
         },
         {
-          tag: "#",
+          tag: "#microsoft",
           tagText: "Microsoft",
         },
         {
-          tag: "#",
+          tag: "#android",
           tagText: "Android",
         },
         {
-          tag: "#",
+          tag: "#forums",
           tagText: "Forums",
         },
         {
-          tag: "#",
+          tag: "#contactUs",
           tagText: "Contact us",
         },
       ],
@@ -54,6 +58,9 @@ export default {
   color: white;
   background-color: #28afc3;
   padding: 20px 0;
+  position: sticky;
+  top: 0;
+  z-index: 2;
   .container {
     display: flex;
     flex-direction: row;
@@ -64,6 +71,23 @@ export default {
       flex-direction: row;
       align-items: center;
       gap: 30px;
+      .navList {
+        list-style: none;
+        padding-left: 0;
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+        gap: 10px;
+        li {
+          padding: 10px;
+          a {
+            text-decoration: none;
+            color: inherit;
+          }
+        }
+      }
       .btn {
         color: white;
         background-color: rgb(19, 19, 19);

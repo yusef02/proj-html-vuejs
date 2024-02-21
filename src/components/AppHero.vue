@@ -9,6 +9,7 @@ export default {
 </script>
 <template>
   <section
+    id="hero"
     class="hero"
     :style="{ backgroundImage: `url('${hero.bgImageSrc}')` }"
   >
@@ -50,9 +51,9 @@ export default {
 }
 
 .heroMotto {
+  background-color: #f2f2f2;
   &__container {
     color: #191919;
-    background-color: #f2f2f2;
     padding: 100px 0;
     text-align: center;
   }
